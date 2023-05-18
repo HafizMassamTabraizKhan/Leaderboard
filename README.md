@@ -98,6 +98,8 @@ After you're finished please remove all the comments and instructions!
 4. HTML best semantics
 5. CSS and linters
 6. Dynamically render scores using javascript and webpack
+7. Add new records
+8. Use Leaderboard API to get and post data
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -180,8 +182,6 @@ You can deploy this project by pushing to your own github page
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] Consume the Leaderboard API using async and await
-- [ ] Refresh scores for a game created from the API
 - [ ] Use database to save the records
 - [ ] User Authentication and Authorization feature
 - [ ] Create the About section
