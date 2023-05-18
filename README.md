@@ -66,13 +66,14 @@ After you're finished please remove all the comments and instructions!
 
 
 ## 🛠 Built With <a name="built-with"></a>
-1- HTML.
-2- CSS.
-3- JAVASCRIPT
-4- LINTERS.
-5- ES6
-6- Webpack
-7- GitFlow
+
+1. HTML.
+2. CSS.
+3. JAVASCRIPT
+4. LINTERS.
+5. ES6
+6. Webpack
+7. GitFlow
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -91,12 +92,12 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-1- Display Leaderboard
-2- Best use DOM manipulation
-3- Use Gitflow
-4- HTML best semantics
-5- CSS and linters
-6- Dynamically render scores using javascript and webpack
+1. Display Leaderboard
+2. Best use DOM manipulation
+3. Use Gitflow
+4. HTML best semantics
+5. CSS and linters
+6. Dynamically render scores using javascript and webpack
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -179,12 +180,12 @@ You can deploy this project by pushing to your own github page
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-[] Consume the Leaderboard API using async and await
-[] Refresh scores for a game created from the API
-[] Use database to save the records
-[] User Authentication and Authorization feature
-[] Create the About section
-[] Create the contact section
+- [ ] Consume the Leaderboard API using async and await
+- [ ] Refresh scores for a game created from the API
+- [ ] Use database to save the records
+- [ ] User Authentication and Authorization feature
+- [ ] Create the About section
+- [ ] Create the contact section
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
