@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQotruOGm3oh1D6p0rArEcdTS5DDvsvIPeegQ&usqp=CAU" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse Todo List Project</b></h3>
+  <h3><b>Microverse Leaderboard Project</b></h3>
 
 </div>
 
@@ -60,11 +60,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Todo List <a name="about-project"></a>
+# 📖 Leaderboard <a name="about-project"></a>
 
-> A to-do list is a list of tasks or items that need to be completed, typically organized in order of priority. It is a tool used to manage time and increase productivity by allowing individuals to plan and keep track of everything that needs to be done.
-
-"Todo List" is a necessary project for learning webpack and javascript in the Microverse curriculum. The project is essentially a list of tasks in which you are able to add, remove or edit tasks from the list.
+> The leaderboard website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -74,6 +72,7 @@ After you're finished please remove all the comments and instructions!
 4- LINTERS.
 5- ES6
 6- Webpack
+7- GitFlow
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -92,17 +91,12 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-1- To Do List
+1- Display Leaderboard
 2- Best use DOM manipulation
-3- Use Github workflow
+3- Use Gitflow
 4- HTML best semantics
 5- CSS and linters
-6- Dynamically render tasks using javascript and webpack
-7- Add and Remove Todo Task
-8- Edit Todo Task
-9- Remove All Completed Todo Tasks at one click
-10- Interactive List Feature
-11- Save Todo Task to Local Storage
+6- Dynamically render scores using javascript and webpack
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,7 +104,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-You can find a live demo in [HERE](https://hafizmassamtabraizkhan.github.io/todo-list/dist/).
+Coming soon...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -127,8 +121,9 @@ To get a local copy up and running, follow these steps.
 3. Git-smc.
 4. NodeJs
 5. Knowledge on HTML and CSS.
-6. Knowledge og JS
+6. Knowledge of JS
 7. Knowledge of Webpack
+8. ES6
 
 ### Setup
 
@@ -138,7 +133,7 @@ Run this command:
 
 ```sh
   cd my-folder
-  git clone https://github.com/HafizMassamTabraizKhan/todo-list.git
+  git clone https://github.com/HafizMassamTabraizKhan/Leaderboard.git
 ```
 
 ### Install
@@ -184,7 +179,9 @@ You can deploy this project by pushing to your own github page
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-[] Use database to save tasks
+[] Consume the Leaderboard API using async and await
+[] Refresh scores for a game created from the API
+[] Use database to save the records
 [] User Authentication and Authorization feature
 [] Create the About section
 [] Create the contact section
