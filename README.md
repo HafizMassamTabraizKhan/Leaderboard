@@ -42,7 +42,6 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -87,7 +86,6 @@ After you're finished please remove all the comments and instructions!
   </ul>
 </details>
 
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
@@ -100,14 +98,6 @@ After you're finished please remove all the comments and instructions!
 6. Dynamically render scores using javascript and webpack
 7. Add new records
 8. Use Leaderboard API to get and post data
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-Coming soon...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
